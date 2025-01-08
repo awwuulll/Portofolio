@@ -1,7 +1,6 @@
 import Isotope from "isotope-layout";
 import { useCallback, useEffect, useRef, useState } from "react";
 import SectionContainer from "./SectionContainer";
-import Testimonials from "./Testimonials";
 
 const Portfolio = () => {
   // Isotope
@@ -73,7 +72,7 @@ const Portfolio = () => {
               onClick={handleFilterKeyChange("apps")}
               data-filter=".apps"
             >
-              Apps
+              Projects
             </li>
           </ul>
         </div>{" "}
@@ -97,7 +96,7 @@ const Portfolio = () => {
                 </div>
                 <div className="portfolio-info">
                   <h5>My blog</h5>
-                  <span>daily doodle</span>
+                  <span>Daily doodle</span>
                 </div>
               </div>{" "}
               {/* Portfolio */}
@@ -148,35 +147,17 @@ const Portfolio = () => {
             <li className="portfolio-item app apps">
               <div className="portfolio-col portfolio-hover-01">
                 <div className="portfolio-img">
-                  <a href="#">
-                    <img src="static/img/portfolio-6.jpg" title alt />
+                  <a href="https://uiiacid-my.sharepoint.com/:w:/g/personal/20523061_students_uii_ac_id/ESauoQVNfh1IhoUw_DWxNcMBuhiyNHCw5NsgHtlQrN8O9g?e=Phbg4W">
+                    <img src="https://i.ibb.co.com/nwds7Gf/DSC03947.jpg" title alt />
                   </a>
                   <div className="hover">
-                    <div className="action-btn">
-                      <a
-                        href="http://www.youtube.com/watch?v=0O2aH4XLbto"
-                        className="popup-video theme-color"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                      <a
-                        className="lightbox-gallery theme-color"
-                        href="static/img/portfolio-6.jpg"
-                        title="Lightbox gallery image title..."
-                      >
-                        <i className="fas fa-expand" />
-                      </a>
-                      <a href="#" className="theme-color">
-                        <i className="fa fa-link" />
-                      </a>
-                    </div>{" "}
                     {/* Video Btn */}
                   </div>{" "}
                   {/* Hover */}
                 </div>
                 <div className="portfolio-info">
-                  <h5>Portpolio Template</h5>
-                  <span>Resent Work</span>
+                  <h5>First batch Junior Staf BSI</h5>
+                  <span>Click this card to see my report</span>
                 </div>
               </div>{" "}
               {/* Portfolio */}
@@ -187,12 +168,6 @@ const Portfolio = () => {
         </div>{" "}
         {/* portfolio content */}
       </div>
-      {/* 
-          ==========================
-            Testimonials
-          ==========================
-          */}
-      <Testimonials />
     </SectionContainer>
   );
 };
