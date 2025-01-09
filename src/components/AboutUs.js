@@ -21,7 +21,7 @@ const AboutUs = () => {
               I was born in Loa Kulu in 2002 and graduated with a Bachelor's
               degree in Informatics from the Islamic University of Indonesia. I
               have a strong passion for programming, particularly in front-end
-              web development, UI/UX, and the Internet of Things &#40;IoT&#41;.
+              web development, UI/UX, and basic networking.
               I am also proficient in various Adobe software. I have a deep
               interest in technological advancements and am always excited to
               share my knowledge with those around me. I am dedicated to
