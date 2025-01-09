@@ -37,7 +37,8 @@ const Services = () => {
               <li>
                 <div className="r-name">
                   <i className="theme-bg ti-briefcase" />
-                  <span className="dark-color">Apple</span>
+                  <span className="dark-color">
+                    Student Staff Informatics UII</span>
                   <label>JAN 2022 - JAN 2023</label>
                 </div>
                 <div className="r-info">
