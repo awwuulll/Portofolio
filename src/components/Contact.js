@@ -36,7 +36,7 @@ const Contact = () => {
             <h6 className="dark-color font-alt">Email</h6>
             <p>
               <a href="https://www.linkedin.com/in/awwuulll" target="_blank" rel="noopener noreferrer" >
-                Linkedin: Aulia Rahman Hakim
+                LinkedIn: Aulia Rahman Hakim
               </a>
             </p>
           </div>

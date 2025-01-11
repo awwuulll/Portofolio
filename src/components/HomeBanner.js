@@ -24,19 +24,29 @@ const HomeBanner = () => {
                 <div className="v-center-box d-flex align-items-center">
                   <div className="home-text">
                     <h6 className="dark-color theme-after">Hello, There</h6>
-                    <h1 className="dark-color blue-after">I'm Aulia Rahman Hakim</h1>
+                    <h1 className="dark-color blue-after">
+                      I'm Aulia Rahman Hakim
+                    </h1>
                     <p>
                       <TypingAnimation />
                     </p>
                     <div className="btn-bar">
-                      <a href="#" className="btn btn-theme">
+                      <a
+                        href="https://rxresu.me/hakimauliarahman26/resume-v1"
+                        className="btn btn-theme"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         View CV
                       </a>
                     </div>
                   </div>
                   <ul className="social-icons">
                     <li>
-                      <a className="instagram" href="https://www.instagram.com/awwuulll">
+                      <a
+                        className="instagram"
+                        href="https://www.instagram.com/awwuulll"
+                      >
                         <i className="fab fa-instagram" />
                       </a>
                     </li>{" "}
