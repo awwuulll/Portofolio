@@ -90,7 +90,7 @@ const AboutUs = () => {
           </div>{" "}
           {/* row */}
           <div className="btn-bar">
-            <a href="#" className="btn btn-theme">
+            <a href="https://storage.rxresu.me/cm5dx25sl4r70dbpoa7t80a1c/resumes/Resume%20v1.pdf" className="btn btn-theme">
               Download CV
             </a>
           </div>
