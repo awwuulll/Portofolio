@@ -12,7 +12,7 @@ const AboutUs = () => {
     >
       <div className="row">
         <div className="col-md-4">
-          <img src="static/img/my-pic.jpg" title alt />
+          <img src="https://i.ibb.co.com/NWwzZ8J/Aulia-Photo-1-1.jpg" title alt />
         </div>
         <div className="col-md-8 md-m-30px-t">
           <div className="about-text">
@@ -90,7 +90,7 @@ const AboutUs = () => {
           </div>{" "}
           {/* row */}
           <div className="btn-bar">
-            <a href="https://storage.rxresu.me/cm5dx25sl4r70dbpoa7t80a1c/resumes/Resume%20v1.pdf" className="btn btn-theme">
+            <a href="https://storage.rxresu.me/cm5dx25sl4r70dbpoa7t80a1c/resumes/resume-v1.pdf" className="btn btn-theme">
               Download CV
             </a>
           </div>
