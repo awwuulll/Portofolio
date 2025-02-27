@@ -12,7 +12,11 @@ const AboutUs = () => {
     >
       <div className="row">
         <div className="col-md-4">
-          <img src="https://i.ibb.co.com/NWwzZ8J/Aulia-Photo-1-1.jpg" title alt />
+          <img
+            src="https://i.ibb.co.com/NWwzZ8J/Aulia-Photo-1-1.jpg"
+            title
+            alt
+          />
         </div>
         <div className="col-md-8 md-m-30px-t">
           <div className="about-text">
@@ -21,12 +25,12 @@ const AboutUs = () => {
               I was born in Loa Kulu in 2002 and graduated with a Bachelor's
               degree in Informatics from the Islamic University of Indonesia. I
               have a strong passion for programming, particularly in front-end
-              web development, UI/UX, and basic networking.
-              I am also proficient in various Adobe software. I have a deep
-              interest in technological advancements and am always excited to
-              share my knowledge with those around me. I am dedicated to
-              continuously honing my skills and pushing the boundaries of my
-              knowledge to bring innovative ideas to life.
+              web development, UI/UX, and graphic design. I am also proficient
+              in various Adobe software and enjoy creating visually appealing
+              designs. I have a deep interest in technological advancements and
+              am always excited to share my knowledge with those around me. I am
+              dedicated to continuously honing my skills and pushing the
+              boundaries of my knowledge to bring innovative ideas to life.
             </p>
           </div>{" "}
           {/* about-text */}
@@ -90,7 +94,10 @@ const AboutUs = () => {
           </div>{" "}
           {/* row */}
           <div className="btn-bar">
-            <a href="https://storage.rxresu.me/cm5dx25sl4r70dbpoa7t80a1c/resumes/resume-v1.pdf" className="btn btn-theme">
+            <a
+              href="https://storage.rxresu.me/cm5dx25sl4r70dbpoa7t80a1c/resumes/resume-v1.pdf"
+              className="btn btn-theme"
+            >
               Download CV
             </a>
           </div>
