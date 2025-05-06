@@ -33,7 +33,7 @@ const Contact = () => {
         <div className="col-md-4 m-15px-tb sm-m-0px-b">
           <div className="contact-info">
           <i class="fa-brands fa-linkedin" style={{ color: '#FFC815' }}></i>
-            <h6 className="dark-color font-alt">Email</h6>
+            <h6 className="dark-color font-alt">LinkedIn</h6>
             <p>
               <a href="https://www.linkedin.com/in/awwuulll" target="_blank" rel="noopener noreferrer" >
                 LinkedIn: Aulia Rahman Hakim
